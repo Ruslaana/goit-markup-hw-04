@@ -180,8 +180,6 @@ body {
 }
 
 .hero {
-    /* padding-top: 188px;
-    padding-bottom: 188px; */
     text-align: center;
 }
 
@@ -342,6 +340,10 @@ border: 1px solid var(--footer-text-color);
 .team-soc-item {
     width: 40px;
     height: 40px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .team-soc-link{
@@ -352,6 +354,12 @@ border: 1px solid var(--footer-text-color);
     display: flex;
     align-items: center;
     justify-content: center;
+    /* padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 100px;
+    padding-right: 100px; */
+
+
 }
 
 
